@@ -1,0 +1,8 @@
+{
+  "short_name": "Task List",
+  "name": "Task List Exercise",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
